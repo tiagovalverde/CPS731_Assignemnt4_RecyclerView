@@ -1,3 +1,6 @@
 <resources>
     <string name="app_name">CPS731_A4_RecyclerView</string>
+    <string name="txtViewTitle">txtViewTitle</string>
+    <string name="txtViewDescription">txtViewDescription</string>
+    <string name="bookCover">Book Cover</string>
 </resources>
