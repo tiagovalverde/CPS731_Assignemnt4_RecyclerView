@@ -1,0 +1,28 @@
+[
+  {
+    "name": "Clean Code: A Handbook of Agile Software Craftsmanship",
+    "authors": [
+      "Robert Martin"
+    ],
+    "category": "Computers and Technology",
+    "subCategory": "Computer Science",
+    "publicationDate": "August 1, 2008",
+    "price": 54.00,
+    "amazonURL": "https://www.amazon.ca/Clean-Code-Handbook-Software-Craftsmanship/dp/0132350882/ref=sr_1_1?dchild=1&keywords=clean+code&qid=1601557736&s=books&sr=1-1",
+    "imageURL": "https://images-na.ssl-images-amazon.com/images/I/41-+g1a2Y1L._SX375_BO1,204,203,200_.jpg",
+    "abstract": "Even bad code can function. But if code isn’t clean, it can bring a development organization to its knees. Every year, countless hours and significant resources are lost because of poorly written code. But it doesn’t have to be that way.\n\nNoted software expert Robert C. Martin presents a revolutionary paradigm with Clean Code: A Handbook of Agile Software Craftsmanship . Martin has teamed up with his colleagues from Object Mentor to distill their best agile practice of cleaning code “on the fly” into a book that will instill within you the values of a software craftsman and make you a better programmer—but only if you work at it.\n\nWhat kind of work will you be doing? You’ll be reading code—lots of code. And you will be challenged to think about what’s right about that code, and what’s wrong with it. More importantly, you will be challenged to reassess your professional values and your commitment to your craft.\n\nClean Code is divided into three parts. The first describes the principles, patterns, and practices of writing clean code. The second part consists of several case studies of increasing complexity. Each case study is an exercise in cleaning up code—of transforming a code base that has some problems into one that is sound and efficient. The third part is the payoff: a single chapter containing a list of heuristics and “smells” gathered while creating the case studies. The result is a knowledge base that describes the way we think when we write, read, and clean code."
+  },
+  {
+    "name": "The Three-Body Problem",
+    "authors": [
+      "Cixin Liu"
+    ],
+    "category": " Science Fiction & Fantasy",
+    "subCategory": "Science Fiction",
+    "publicationDate": "January 12, 2016",
+    "price": 54.00,
+    "amazonURL": "https://www.amazon.ca/Three-Body-Problem-Cixin-Liu/dp/0765382032/ref=sr_1_1?dchild=1&keywords=three+body+problem&qid=1601558738&rnid=927726&s=books&sr=1-1",
+    "imageURL": "https://images-na.ssl-images-amazon.com/images/I/51hshl7LRTL._SX329_BO1,204,203,200_.jpg",
+    "abstract": "The Three-Body Problem is the first chance for English-speaking readers to experience this multiple award winning phenomenon from China's most beloved science fiction author, Liu Cixin.\n\nSet against the backdrop of China's Cultural Revolution, a secret military project sends signals into space to establish contact with aliens. An alien civilization on the brink of destruction captures the signal and plans to invade Earth. Meanwhile, on Earth, different camps start forming, planning to either welcome the superior beings and help them take over a world seen as corrupt, or to fight against the invasion. The result is a science fiction masterpiece of enormous scope and vision."
+  }
+]
