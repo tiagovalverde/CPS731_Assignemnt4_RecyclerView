@@ -1,6 +1,16 @@
 <resources>
     <string name="app_name">CPS731_A4_RecyclerView</string>
+    <string name="main_activity_name">Books List</string>
+    <string name="book_details_activity_name">Book Details</string>
     <string name="txtViewTitle">txtViewTitle</string>
     <string name="txtViewDescription">txtViewDescription</string>
     <string name="bookCover">Book Cover</string>
+    <string name="book_abstract">abstract</string>
+    <string name="abstract_label">Abstract:</string>
+    <string name="publication_date_label">Publication Date:</string>
+    <string name="author_name">author name</string>
+    <string name="book_name">book name</string>
+    <string name="author_label">Author:</string>
+    <string name="book_cover_name">Book Cover</string>
+    <string name="category">book category</string>
 </resources>

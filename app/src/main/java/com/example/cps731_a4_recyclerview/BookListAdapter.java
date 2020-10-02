@@ -1,6 +1,7 @@
 package com.example.cps731_a4_recyclerview;
 
 import android.content.Context;
+import android.content.Intent;
 import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
@@ -52,8 +53,10 @@ public class BookListAdapter extends RecyclerView.Adapter<BookListAdapter.BookVi
         holder.itemContainerView.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View view) {
-                // TODO to navigate to the book details activity
-                Toast.makeText(context, bookList.get(position).getName(), Toast.LENGTH_SHORT).show();
+                Book selectedBook = bookList.get(position);
+                Intent intent = new Intent(context, BookDetailsActivity.class);
+                intent.putExtra("book", selectedBook);
+                context.startActivity(intent);
             }
         });
     }

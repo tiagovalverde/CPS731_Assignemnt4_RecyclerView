@@ -1,11 +1,12 @@
 package com.example.cps731_a4_recyclerview;
 
+import java.io.Serializable;
 import java.util.ArrayList;
 
 /**
  * Data class representing a book
  */
-public class Book {
+public class Book implements Serializable {
     private String name;
     private ArrayList<String> authors;
     private String category;
@@ -69,7 +70,7 @@ public class Book {
         return imageURL;
     }
 
-    public String get_abstract() {
+    public String getAbstract() {
         return _abstract;
     }
 }
