@@ -13,7 +13,12 @@
         android:theme="@style/AppTheme">
         <activity
             android:name=".BookDetailsActivity"
-            android:label="@string/book_details_activity_name"></activity>
+            android:parentActivityName="com.example.cps731_a4_recyclerview.MainActivity"
+            android:label="@string/book_details_activity_name">
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="com.example.cps731_a4_recyclerview.MainActivity" />
+        </activity>
         <activity
             android:name=".MainActivity"
             android:label="@string/main_activity_name"
