@@ -37,6 +37,7 @@ public class DataProvider {
                 }
 
                 books.add(new Book(
+                        bookJSON.getString("id"),
                         bookJSON.getString("name"),
                         authors,
                         bookJSON.getString("category"),

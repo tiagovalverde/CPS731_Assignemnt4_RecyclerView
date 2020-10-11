@@ -1,6 +1,8 @@
 ### CPS 731
 #### Fall 2020
-#### Assignment 4 - Recycler View
+#### Assignments
+- 4 Recycler View
+- 5 Master/Detail Flow Template & Media Player
 
 ##### Student:
 Tiago Valverde #500728936

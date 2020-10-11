@@ -1,5 +1,6 @@
 [
   {
+    "id": "1",
     "name": "Clean Code: A Handbook of Agile Software Craftsmanship",
     "authors": [
       "Robert Martin"
@@ -13,6 +14,7 @@
     "abstract": "Even bad code can function. But if code isn’t clean, it can bring a development organization to its knees. Every year, countless hours and significant resources are lost because of poorly written code. But it doesn’t have to be that way.\n\nNoted software expert Robert C. Martin presents a revolutionary paradigm with Clean Code: A Handbook of Agile Software Craftsmanship . Martin has teamed up with his colleagues from Object Mentor to distill their best agile practice of cleaning code “on the fly” into a book that will instill within you the values of a software craftsman and make you a better programmer—but only if you work at it.\n\nWhat kind of work will you be doing? You’ll be reading code—lots of code. And you will be challenged to think about what’s right about that code, and what’s wrong with it. More importantly, you will be challenged to reassess your professional values and your commitment to your craft.\n\nClean Code is divided into three parts. The first describes the principles, patterns, and practices of writing clean code. The second part consists of several case studies of increasing complexity. Each case study is an exercise in cleaning up code—of transforming a code base that has some problems into one that is sound and efficient. The third part is the payoff: a single chapter containing a list of heuristics and “smells” gathered while creating the case studies. The result is a knowledge base that describes the way we think when we write, read, and clean code."
   },
   {
+    "id": "2",
     "name": "The Three-Body Problem",
     "authors": [
       "Cixin Liu"
@@ -26,6 +28,7 @@
     "abstract": "The Three-Body Problem is the first chance for English-speaking readers to experience this multiple award winning phenomenon from China's most beloved science fiction author, Liu Cixin.\n\nSet against the backdrop of China's Cultural Revolution, a secret military project sends signals into space to establish contact with aliens. An alien civilization on the brink of destruction captures the signal and plans to invade Earth. Meanwhile, on Earth, different camps start forming, planning to either welcome the superior beings and help them take over a world seen as corrupt, or to fight against the invasion. The result is a science fiction masterpiece of enormous scope and vision."
   },
   {
+    "id": "3",
     "name": "Eloquent JavaScript (3rd Edition) A Modern Introduction to Programming",
     "authors": [
       "Marjin Haverbeke"
@@ -39,6 +42,7 @@
     "abstract": "Completely revised and updated, this best-selling introduction to programming in JavaScript focuses on writing real applications.\n\nJavaScript lies at the heart of almost every modern web application, from social apps like Twitter to browser-based game frameworks like Phaser and Babylon. Though simple for beginners to pick up and play with, JavaScript is a flexible, complex language that you can use to build full-scale applications.\n\nThis much anticipated and thoroughly revised third edition of Eloquent JavaScript dives deep into the JavaScript language to show you how to write beautiful, effective code. It has been updated to reflect the current state of Java¬Script and web browsers and includes brand-new material on features like class notation, arrow functions, iterators, async functions, template strings, and block scope. A host of new exercises have also been added to test your skills and keep you on track.\n\nAs with previous editions, Haverbeke continues to teach through extensive examples and immerses you in code from the start, while exercises and full-chapter projects give you hands-on experience with writing your own programs. You start by learning the basic structure of the JavaScript language as well as control structures, functions, and data structures to help you write basic programs. Then you'll learn about error handling and bug fixing, modularity, and asynchronous programming before moving on to web browsers and how JavaScript is used to program them. As you build projects such as an artificial life simulation, a simple programming language, and a paint program, you'll learn how to:\n\n- Understand the essential elements of programming, including syntax, control, and data\n- Organize and clarify your code with object-oriented and functional programming techniques\n- Script the browser and make basic web applications\n- Use the DOM effectively to interact with browsers\n- Harness Node.js to build servers and utilities\n\nIsn't it time you became fluent in the language of the Web?"
   },
   {
+    "id": "4",
     "name": "The Oxygen Advantage: Simple, Scientifically Proven Breathing Techniques to Help You Become Healthier, Slimmer, Faster, and Fitter",
     "authors": [
       "Patrick McKeown"
@@ -52,6 +56,7 @@
     "abstract": "A simple yet revolutionary approach to improving your body’s oxygen use, increasing your health, weight loss, and sports performance—whether you’re a recovering couch potato or an Ironman triathlon champion. With a foreword by New York Times bestselling author Dr. Joseph Mercola.\n\nAchieve more with less effort: The secret to weight loss, fitness, and wellness lies in the most basic and most overlooked function of your body—how you breathe. One of the biggest obstacles to better health and fitness is a rarely identified problem: chronic over-breathing. We often take many more breaths than we need—without realizing it—contributing to poor health and fitness, including a host of disorders, from anxiety and asthma to insomnia and heart problems.\n\nIn The Oxygen Advantage, the man who has trained over 5,000 people—including Olympic and professional athletes—in reduced breathing exercises now shares his scientifically validated techniques to help you breathe more efficiently. Patrick McKeown teaches you the fundamental relationship between oxygen and the body, then gets you started with a Body Oxygen Level Test (BOLT) to determine how efficiently your body uses oxygen. He then shows you how to increase your BOLT score by using light breathing exercises and learning how to simulate high altitude training, a technique used by Navy SEALs and professional athletes to help increase endurance, weight loss, and vital red blood cells to dramatically improve cardio-fitness.\n\nFollowing his program, even the most out-of-shape person (including those with chronic respiratory conditions such as asthma) can climb stairs, run for a bus, or play soccer without gasping for air."
   },
   {
+    "id": "5",
     "name": "Zen and the Art of Motorcycle Maintenance: An Inquiry Into Values",
     "authors": [
       "Robert M Pirsig"
@@ -65,6 +70,7 @@
     "abstract": "THE CLASSIC BOOK THAT HAS INSPIRED MILLIONS\n\nA penetrating examination of how we live and how to live better\n\nFew books transform a generation and then establish themselves as touchstones for the generations that follow. Zen and the Art of Motorcycle Maintenance is one such book. This modern epic of a man’s search for meaning became an instant bestseller on publication in 1974, acclaimed as one of the most exciting books in the history of American letters. It continues to inspire millions. \n\nA narration of a summer motorcycle trip undertaken by a father and his son, Zen and the Art of Motorcycle Maintenance becomes a personal and philosophical odyssey into fundamental questions on how to live. The narrator's relationship with his son leads to a powerful self-reckoning; the craft of motorcycle maintenance leads to an austerely beautiful process for reconciling science, religion, and humanism. Resonant with the confusions of existence, this classic is a touching and transcendent book of life.\n\nThis new edition contains an interview with Pirsig and letters and documents detailing how this extraordinary book came to be."
   },
   {
+    "id": "6",
     "name": "Practical Object-Oriented Design: An Agile Primer Using Ruby (2nd Edition) ",
     "authors": [
       "Sandi Metz"
@@ -78,6 +84,7 @@
     "abstract": "Object-oriented programming languages exist to help you create beautiful, straightforward applications that are easy to change and simple to extend. Unfortunately, the world is awash with object-oriented (OO) applications that are difficult to understand and expensive to change. Practical Object-Oriented Design, Second Edition, immerses you in an OO mindset and teaches you powerful, real-world, object-oriented design techniques with simple and practical examples.\n\n \n\nSandi Metz demonstrates how to build new applications that can “survive success” and repair existing applications that have become impossible to change. Each technique is illustrated with extended examples in the easy-to-understand Ruby programming language, all downloadable from the companion website, poodr.com. Fully updated for Ruby 2.5, this guide shows how to\n\n    Decide what belongs in a single class\n    Avoid entangling objects that should be kept separate\n    Define flexible interfaces among objects\n    Reduce programming overhead costs with duck typing\n    Successfully apply inheritance\n    Build objects via composition\n\nWhatever your previous object-oriented experience, this concise guide will help you achieve the superior outcomes you’re looking for."
   },
   {
+    "id": "7",
     "name": "Architecture Patterns with Python: Enabling Test-Driven Development, Domain-Driven Design, and Event-Driven Microservices",
     "authors": [
       "Harry Percival"
@@ -91,6 +98,7 @@
     "abstract": "As Python continues to grow in popularity, projects are becoming larger and more complex. Many Python developers are taking an interest in high-level software design patterns such as hexagonal/clean architecture, event-driven architecture, and the strategic patterns prescribed by domain-driven design (DDD). But translating those patterns into Python isn’t always straightforward.\n\nWith this hands-on guide, Harry Percival and Bob Gregory from MADE.com introduce proven architectural design patterns to help Python developers manage application complexity—and get the most value out of their test suites.\n\nEach pattern is illustrated with concrete examples in beautiful, idiomatic Python, avoiding some of the verbosity of Java and C# syntax. Patterns include:\n\n    Dependency inversion and its links to ports and adapters (hexagonal/clean architecture)\n    Domain-driven design’s distinction between Entities, Value Objects, and Aggregates\n    Repository and Unit of Work patterns for persistent storage\n    Events, commands, and the message bus\n    Command-query responsibility segregation (CQRS)\n    Event-driven architecture and reactive microservices"
   },
   {
+    "id": "8",
     "name": "Deep Work: Rules for Focused Success in a Distracted World",
     "authors": [
       "Cal Newport"

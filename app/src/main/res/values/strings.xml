@@ -13,4 +13,6 @@
     <string name="author_label">Author:</string>
     <string name="book_cover_name">Book Cover</string>
     <string name="category">book category</string>
+    <string name="title_bookitem_list">BooksItems</string>
+    <string name="title_bookitem_detail">BookItem Detail</string>
 </resources>
